@@ -1,0 +1,1 @@
+#This file will contain the steps to setup a localhost DB and connect to it via Java code
